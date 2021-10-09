@@ -61,7 +61,7 @@ footer .list{
     footer{
         position: relative;
         background-color: #8d5395;
-        top: 840px;
+        top: 845px;
         height: 17rem;
         width: 100%;
         color: white;
@@ -99,6 +99,6 @@ footer .social-media h5{
 footer .social-media i{
     position: relative;
     top: 7rem;
-    margin-left:10%;
+    margin-left:11%;
 }
 }
