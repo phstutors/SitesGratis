@@ -68,12 +68,10 @@ footer .list{
         margin: 0;
     }
 footer .list{
-        position: relative;
+        position: absolute;
         top: -8rem;
+        left: 200px;
     }
-footer .list ul, li{
-    margin-right: -30%;
-}
 .list li{
     margin-top: 1%;
     font-size: 1.2rem;
