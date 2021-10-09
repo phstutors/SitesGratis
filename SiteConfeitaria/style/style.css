@@ -72,7 +72,7 @@ footer .list{
         top: -8rem;
     }
 footer .list{
-        margin-left: 20%;
+        margin-left: 10%;
 }
 .list li{
     margin-top: 1%;
@@ -102,6 +102,6 @@ footer .social-media h5{
 footer .social-media i{
     position: relative;
     top: 7rem;
-    margin-left:9%;
+    margin-left:10%;
 }
 }
