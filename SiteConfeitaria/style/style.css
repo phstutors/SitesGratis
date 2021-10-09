@@ -9,7 +9,7 @@ body, html{
 footer{
     position: relative;
     background-color: #8d5395;
-    top: 90%;
+    top: 100%;
     height: 17rem;
     color: white;
     margin: 0;
@@ -59,11 +59,12 @@ footer .list{
     footer{
         position: relative;
         background-color: #8d5395;
-        top: 100%;
+        top: 720px;
         height: 17rem;
         width: 100%;
         color: white;
         margin: 0;
+        bottom: 0px;
     }
     footer .list{
         position: relative;
@@ -100,6 +101,6 @@ footer .social-media h5{
 footer .social-media i{
     position: relative;
     top: 7rem;
-    margin-left:7%;
+    margin-left:8%;
 }
 }
