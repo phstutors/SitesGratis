@@ -61,12 +61,11 @@ footer .list{
     footer{
         position: relative;
         background-color: #8d5395;
-        margin-top: 100%;
+        top: 820px;
         height: 17rem;
         width: 100%;
         color: white;
         margin: 0;
-        bottom: 0px;
     }
     footer .list{
         position: relative;
