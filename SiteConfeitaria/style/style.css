@@ -72,7 +72,7 @@ footer .list{
         top: -8rem;
     }
 footer .list ul, li{
-    margin-right: -40%;
+    margin-right: 10%;
 }
 .list li{
     margin-top: 1%;
@@ -95,7 +95,7 @@ footer .social-media h5{
     position: relative;
     top: 9rem;
     font-family: 'Courgette', cursive;
-    margin-left: -15%;
+    margin-left: 13%;
     font-size: 2rem;
     font-weight: 500;
 }
