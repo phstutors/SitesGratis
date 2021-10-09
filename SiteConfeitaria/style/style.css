@@ -67,11 +67,13 @@ footer .list{
         color: white;
         margin: 0;
     }
-    footer .list{
+footer .list{
         position: relative;
         top: -8rem;
-        left: 300px;
     }
+footer .list ul, li{
+    margin-left: 25%;
+}
 .list li{
     margin-top: 1%;
     font-size: 1.2rem;
